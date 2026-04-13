@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><rss version="2.0"><channel><title>EC Monitor</title><description>ECサイト商品検知フィード</description></channel></rss>
+<?xml version='1.0' encoding='utf-8'?>
+<rss version="2.0">
+  <channel>
+    <title>EC Monitor - 商品検知フィード</title>
+    <link>https://github.com/</link>
+    <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
+    <language>ja</language>
+    <lastBuildDate>Mon, 13 Apr 2026 12:28:29 +0000</lastBuildDate>
+    <item>
+      <title>【新商品】ONE PIECEカードゲーム 決戦の刻【OP-16】(BOX)24パック入り</title>
+      <link>https://www.amazon.co.jp/dp/B0GN5JV7JS?tag=tcgauthority-22</link>
+      <description>Amazon | ¥5,280
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0GN5JV7JS?tag=tcgauthority-22</description>
+      <pubDate>Mon, 13 Apr 2026 12:28:29 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0GN5JV7JS_20260413212829</guid>
+    </item>
+  </channel>
+</rss>
