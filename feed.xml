@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Apr 2026 00:11:07 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 00:15:57 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット exスペシャルセット</title>
+      <link>https://www.amazon.co.jp/dp/B0BNZXM7CD?tag=tcgauthority-22</link>
+      <description>Amazon | ¥4,620
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0BNZXM7CD?tag=tcgauthority-22</description>
+      <pubDate>Sat, 18 Apr 2026 00:15:57 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0BNZXM7CD_20260418091557</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム ソード＆シールド スタートデッキ100</title>
       <link>https://www.amazon.co.jp/dp/B09G9Y7WH6?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0CRY385YN?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0DB7XZDL7?tag=tcgauthority-22</description>
       <pubDate>Fri, 17 Apr 2026 00:00:53 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0DB7XZDL7_20260417090053</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム ソード＆シールド スタートデッキ100</title>
-      <link>https://www.amazon.co.jp/dp/B09G9Y7WH6?tag=tcgauthority-22</link>
-      <description>Amazon | ¥2,280
-▼購入はこちら
-https://www.amazon.co.jp/dp/B09G9Y7WH6?tag=tcgauthority-22</description>
-      <pubDate>Fri, 17 Apr 2026 00:00:53 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B09G9Y7WH6_20260417090053</guid>
     </item>
   </channel>
 </rss>
