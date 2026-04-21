@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Apr 2026 23:59:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 00:00:57 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット exスペシャルセット</title>
+      <link>https://www.amazon.co.jp/dp/B0BNZXM7CD?tag=tcgauthority-22</link>
+      <description>Amazon | ¥4,800
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0BNZXM7CD?tag=tcgauthority-22</description>
+      <pubDate>Tue, 21 Apr 2026 00:00:57 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0BNZXM7CD_20260421090057</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック クレイバースト BOX</title>
       <link>https://www.amazon.co.jp/dp/B0BNZYL56S?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.yodobashi.com/product/100000001008526050/</description>
 https://www.yodobashi.com/product/100000001008562307/</description>
       <pubDate>Mon, 20 Apr 2026 13:51:43 +0000</pubDate>
       <guid isPermaLink="false">yodobashi_yodobashi_100000001008562307_20260420225143</guid>
-    </item>
-    <item>
-      <title>【新商品】コナミ KONAMI遊戯王OCG デュエルモンスターズ TERMINAL WORLD 2（1パック：5枚入）</title>
-      <link>https://www.yodobashi.com/product/100000001008635500/</link>
-      <description>ヨドバシカメラ | 価格未定
-▼購入はこちら
-https://www.yodobashi.com/product/100000001008635500/</description>
-      <pubDate>Mon, 20 Apr 2026 13:51:43 +0000</pubDate>
-      <guid isPermaLink="false">yodobashi_yodobashi_100000001008635500_20260420225143</guid>
     </item>
   </channel>
 </rss>
