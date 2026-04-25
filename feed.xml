@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Apr 2026 00:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 00:13:46 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA 拡張パック アビスアイ BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0GP9QHQ3Y?tag=tcgauthority-22</link>
+      <description>Amazon | ¥15,100
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0GP9QHQ3Y?tag=tcgauthority-22</description>
+      <pubDate>Sat, 25 Apr 2026 00:13:46 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0GP9QHQ3Y_20260425091346</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ロケット団の栄光 BOX</title>
       <link>https://www.amazon.co.jp/dp/B0DKHHYTGJ?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B08DR62LY6?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0CMZS84KP?tag=tcgauthority-22</description>
       <pubDate>Fri, 24 Apr 2026 14:14:38 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0CMZS84KP_20260424231438</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム MEGA 拡張パック メガブレイブ ポケモンセンターセット</title>
-      <link>https://www.amazon.co.jp/dp/B0FHWHWYZF?tag=tcgauthority-22</link>
-      <description>Amazon | ¥36,800
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0FHWHWYZF?tag=tcgauthority-22</description>
-      <pubDate>Fri, 24 Apr 2026 14:14:38 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0FHWHWYZF_20260424231438</guid>
     </item>
   </channel>
 </rss>
