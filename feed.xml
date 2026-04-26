@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Apr 2026 00:53:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 01:18:39 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA 拡張パック ニンジャスピナー BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0G1XB2STM?tag=tcgauthority-22</link>
+      <description>Amazon | ¥6,695
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0G1XB2STM?tag=tcgauthority-22</description>
+      <pubDate>Sun, 26 Apr 2026 01:18:39 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0G1XB2STM_20260426101839</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット デッキビルドBOX ステラミラクル</title>
       <link>https://www.amazon.co.jp/dp/B0CXCJFGWQ?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0CMZRM9RJ?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0FHWGLMS1?tag=tcgauthority-22</description>
       <pubDate>Sat, 25 Apr 2026 09:58:18 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0FHWGLMS1_20260425185818</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ワイルドフォース BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0CMZRM9RJ?tag=tcgauthority-22</link>
-      <description>Amazon | ¥19,800
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0CMZRM9RJ?tag=tcgauthority-22</description>
-      <pubDate>Sat, 25 Apr 2026 08:44:50 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0CMZRM9RJ_20260425174450</guid>
     </item>
   </channel>
 </rss>
