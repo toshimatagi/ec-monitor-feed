@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 06 May 2026 12:30:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 12:39:42 +0000</lastBuildDate>
+    <item>
+      <title>【新商品】こすってあそべる！ポケモンはみがき よごれがけせる！</title>
+      <link>https://shopping.bookoff.co.jp/used/0019760520</link>
+      <description>Book off | 価格未定
+▼購入はこちら
+https://shopping.bookoff.co.jp/used/0019760520</description>
+      <pubDate>Wed, 06 May 2026 12:39:42 +0000</pubDate>
+      <guid isPermaLink="false">bookoff_bookoff_0019760520_20260506213942</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム ソード＆シールド 強化拡張パック 白熱のアルカナ BOX</title>
       <link>https://www.amazon.co.jp/dp/B0B1HWM5LW?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/sspa/click?ie=UTF8&amp;spc=MTo3ODQ2NDAwMDkzODk5NTExOjE3
 https://www.amazon.co.jp/dp/B0CMZT5PV4?tag=tcgauthority-22</description>
       <pubDate>Tue, 05 May 2026 11:46:07 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0CMZT5PV4_20260505204607</guid>
-    </item>
-    <item>
-      <title>【新商品】【即納】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック バトルパートナーズ BOX シュリンク付き スカーレット＆バイオレット 拡張パック</title>
-      <link>https://hb.afl.rakuten.co.jp/ichiba/52caff5c.4a28edb3.52caff5d.4da5f497/?pc=https://item.rakuten.co.jp/bansyuselect/box482920/?variantId=box482920</link>
-      <description>楽天市場 | 価格未定
-▼購入はこちら
-https://hb.afl.rakuten.co.jp/ichiba/52caff5c.4a28edb3.52caff5d.4da5f497/?pc=https://item.rakuten.co.jp/bansyuselect/box482920/?variantId=box482920</description>
-      <pubDate>Tue, 05 May 2026 11:26:54 +0000</pubDate>
-      <guid isPermaLink="false">rakuten_rakuten_bansyuselect_box482920_20260505202654</guid>
     </item>
   </channel>
 </rss>
