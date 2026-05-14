@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 14 May 2026 01:42:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 01:43:47 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム ソード＆シールド スタートデッキ100</title>
+      <link>https://www.amazon.co.jp/dp/B09G9Y7WH6?tag=tcgauthority-22</link>
+      <description>Amazon | ¥2,700
+▼購入はこちら
+https://www.amazon.co.jp/dp/B09G9Y7WH6?tag=tcgauthority-22</description>
+      <pubDate>Thu, 14 May 2026 01:43:47 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B09G9Y7WH6_20260514104347</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット デッキビルドBOX 黒炎の支配者</title>
       <link>https://www.amazon.co.jp/dp/B0BYCBZZZP?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://hb.afl.rakuten.co.jp/ichiba/52caff5c.4a28edb3.52caff5d.4da5f497/?pc=http
 https://7net.omni7.jp/detail/1400148098</description>
       <pubDate>Wed, 13 May 2026 23:50:27 +0000</pubDate>
       <guid isPermaLink="false">sevennet_sevennet_1400148098_20260514085027</guid>
-    </item>
-    <item>
-      <title>【新商品】ポケモン不思議のダンジョン 空の探検隊</title>
-      <link>https://shopping.bookoff.co.jp/used/0016132640</link>
-      <description>Book off | 価格未定
-▼購入はこちら
-https://shopping.bookoff.co.jp/used/0016132640</description>
-      <pubDate>Wed, 13 May 2026 23:50:27 +0000</pubDate>
-      <guid isPermaLink="false">bookoff_bookoff_0016132640_20260514085027</guid>
     </item>
   </channel>
 </rss>
