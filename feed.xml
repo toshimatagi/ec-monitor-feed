@@ -5,7 +5,25 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 10 Jun 2026 05:36:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 05:47:00 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ホワイトフレア BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0DP481Y24?tag=tcgauthority-22</link>
+      <description>Amazon | ¥27,273
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0DP481Y24?tag=tcgauthority-22</description>
+      <pubDate>Wed, 10 Jun 2026 05:47:00 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0DP481Y24_20260610144700</guid>
+    </item>
+    <item>
+      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ブラックボルト BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0DP4586RV?tag=tcgauthority-22</link>
+      <description>Amazon | ¥29,192
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0DP4586RV?tag=tcgauthority-22</description>
+      <pubDate>Wed, 10 Jun 2026 05:47:00 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0DP4586RV_20260610144700</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック バトルパートナーズ BOX</title>
       <link>https://www.amazon.co.jp/dp/B0DB7C1Z26?tag=tcgauthority-22</link>
@@ -437,24 +455,6 @@ https://www.amazon.co.jp/dp/B08DR62LY6?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0H43ZX8LK?tag=tcgauthority-22</description>
       <pubDate>Wed, 10 Jun 2026 00:50:47 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0H43ZX8LK_20260610095047</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム ソード＆シールド ハイクラスパック シャイニースターV BOX</title>
-      <link>https://www.amazon.co.jp/dp/B08DR62LY6?tag=tcgauthority-22</link>
-      <description>Amazon | ¥27,614
-▼購入はこちら
-https://www.amazon.co.jp/dp/B08DR62LY6?tag=tcgauthority-22</description>
-      <pubDate>Wed, 10 Jun 2026 00:44:51 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B08DR62LY6_20260610094451</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット スペシャルBOX ポケモンセンターフクオカ</title>
-      <link>https://www.amazon.co.jp/dp/B0FHWGLMS1?tag=tcgauthority-22</link>
-      <description>Amazon | ¥28,000
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0FHWGLMS1?tag=tcgauthority-22</description>
-      <pubDate>Wed, 10 Jun 2026 00:40:22 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0FHWGLMS1_20260610094022</guid>
     </item>
   </channel>
 </rss>
