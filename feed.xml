@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 17:13:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 17:23:08 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA 拡張パック メガブレイブ BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</link>
+      <description>Amazon | ¥12,000
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</description>
+      <pubDate>Sat, 29 Aug 2026 17:23:08 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0F18J2CJF_20260830022308</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット&amp;バイオレット ハイクラスパック シャイニートレジャーex BOX</title>
       <link>https://www.amazon.co.jp/dp/B0CF1MDBS5?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0F8V1YTSP?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0FLD7HMRP?tag=tcgauthority-22</description>
       <pubDate>Sat, 29 Aug 2026 10:23:21 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0FLD7HMRP_20260829192321</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム スカーレット&amp;バイオレット ハイクラスパック シャイニートレジャーex BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0CF1MDBS5?tag=tcgauthority-22</link>
-      <description>Amazon | ¥20,790
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0CF1MDBS5?tag=tcgauthority-22</description>
-      <pubDate>Sat, 29 Aug 2026 10:12:57 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0CF1MDBS5_20260829191257</guid>
     </item>
   </channel>
 </rss>
