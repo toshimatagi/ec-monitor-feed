@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 08:20:26 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 09:00:00 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック 未来の一閃 BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0C6PGDBMC?tag=tcgauthority-22</link>
+      <description>Amazon | ¥14,400
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0C6PGDBMC?tag=tcgauthority-22</description>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0C6PGDBMC_20260831180000</guid>
+    </item>
     <item>
       <title>【更新】バンダイ(BANDAI) ONE PIECEカードゲーム 蒼海の七傑【OP-14】 (BOX)24パック入り</title>
       <link>https://www.amazon.co.jp/dp/B0FQB2BQHM?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0CF1MDBS5?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0FLD7HMRP?tag=tcgauthority-22</description>
       <pubDate>Sun, 30 Aug 2026 20:01:32 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0FLD7HMRP_20260831050132</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ブラックボルト BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0DP4586RV?tag=tcgauthority-22</link>
-      <description>Amazon | ¥29,800
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0DP4586RV?tag=tcgauthority-22</description>
-      <pubDate>Sun, 30 Aug 2026 19:24:50 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0DP4586RV_20260831042450</guid>
     </item>
   </channel>
 </rss>
