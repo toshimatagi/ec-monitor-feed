@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 04:15:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 04:48:15 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA 拡張パック メガブレイブ BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</link>
+      <description>Amazon | ¥9,700
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</description>
+      <pubDate>Tue, 08 Sep 2026 04:48:15 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0F18J2CJF_20260908134815</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム ソード＆シールド ハイクラスパック シャイニースターV BOX</title>
       <link>https://www.amazon.co.jp/dp/B08DR62LY6?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0HCLV2SMK?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0CMZS84KP?tag=tcgauthority-22</description>
       <pubDate>Mon, 07 Sep 2026 21:43:52 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0CMZS84KP_20260908064352</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム MEGA 拡張パック アビスアイ BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0GP9QHQ3Y?tag=tcgauthority-22</link>
-      <description>Amazon | ¥10,480
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0GP9QHQ3Y?tag=tcgauthority-22</description>
-      <pubDate>Mon, 07 Sep 2026 21:29:13 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0GP9QHQ3Y_20260908062913</guid>
     </item>
   </channel>
 </rss>
