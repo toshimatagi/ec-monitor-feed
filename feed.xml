@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 01:31:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 01:59:12 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA 拡張パック メガブレイブ BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</link>
+      <description>Amazon | ¥8,600
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</description>
+      <pubDate>Thu, 10 Sep 2026 01:59:12 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0F18J2CJF_20260910105912</guid>
+    </item>
     <item>
       <title>【更新】バンダイ(BANDAI) ONE PIECEカードゲーム エクストラブースター ONE PIECE Heroines Edition【EB-03】</title>
       <link>https://www.amazon.co.jp/dp/B0FJ7Z6RML?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0B1HWM5LW?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0FQB2BQHM?tag=tcgauthority-22</description>
       <pubDate>Wed, 09 Sep 2026 16:00:40 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0FQB2BQHM_20260910010040</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム MEGA 拡張パック メガブレイブ BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</link>
-      <description>Amazon | ¥9,405
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</description>
-      <pubDate>Wed, 09 Sep 2026 15:51:49 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0F18J2CJF_20260910005149</guid>
     </item>
   </channel>
 </rss>
