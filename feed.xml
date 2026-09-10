@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:42:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:53:08 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA プレミアムトレーナーボックス MEGA</title>
+      <link>https://www.amazon.co.jp/dp/B0F18B4CVX?tag=tcgauthority-22</link>
+      <description>Amazon | ¥12,500
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0F18B4CVX?tag=tcgauthority-22</description>
+      <pubDate>Thu, 10 Sep 2026 00:53:08 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0F18B4CVX_20260910095308</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット&amp;バイオレット ハイクラスパック シャイニートレジャーex BOX</title>
       <link>https://www.amazon.co.jp/dp/B0CF1MDBS5?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0BYCBZZZP?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</description>
       <pubDate>Wed, 09 Sep 2026 15:16:25 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0F18J2CJF_20260910001625</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム MEGA 拡張パック ニンジャスピナー BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0G1XB2STM?tag=tcgauthority-22</link>
-      <description>Amazon | ¥12,480
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0G1XB2STM?tag=tcgauthority-22</description>
-      <pubDate>Wed, 09 Sep 2026 15:09:03 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0G1XB2STM_20260910000903</guid>
     </item>
   </channel>
 </rss>
