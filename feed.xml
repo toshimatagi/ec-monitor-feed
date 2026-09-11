@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 13:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 13:23:01 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA スタートデッキ100 バトルコレクション</title>
+      <link>https://www.amazon.co.jp/dp/B0FLD7HMRP?tag=tcgauthority-22</link>
+      <description>Amazon | ¥1,800
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0FLD7HMRP?tag=tcgauthority-22</description>
+      <pubDate>Fri, 11 Sep 2026 13:23:01 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0FLD7HMRP_20260911222301</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム ソード＆シールド 強化拡張パック 白熱のアルカナ BOX</title>
       <link>https://www.amazon.co.jp/dp/B0B1HWM5LW?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0D46M9DHD?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0CMZQYKF6?tag=tcgauthority-22</description>
       <pubDate>Fri, 11 Sep 2026 00:30:37 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0CMZQYKF6_20260911093037</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム ソード＆シールド 強化拡張パック 白熱のアルカナ BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0B1HWM5LW?tag=tcgauthority-22</link>
-      <description>Amazon | ¥14,355
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0B1HWM5LW?tag=tcgauthority-22</description>
-      <pubDate>Fri, 11 Sep 2026 00:05:41 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0B1HWM5LW_20260911090541</guid>
     </item>
   </channel>
 </rss>
