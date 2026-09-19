@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 12:59:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 13:12:57 +0000</lastBuildDate>
+    <item>
+      <title>【新商品】ポケモンカードゲーム ソード＆シールド ハイクラスデッキ インテレオンVMAX</title>
+      <link>https://www.amazon.co.jp/dp/B08WBC98FY?tag=tcgauthority-22</link>
+      <description>Amazon | ¥4,800
+▼購入はこちら
+https://www.amazon.co.jp/dp/B08WBC98FY?tag=tcgauthority-22</description>
+      <pubDate>Sat, 19 Sep 2026 13:12:57 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B08WBC98FY_20260919221257</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック クレイバースト BOX</title>
       <link>https://www.amazon.co.jp/dp/B0BNZYL56S?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0GP9QHQ3Y?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0FLD7HMRP?tag=tcgauthority-22</description>
       <pubDate>Sat, 19 Sep 2026 05:43:27 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0FLD7HMRP_20260919144327</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ロケット団の栄光 BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0DKHHYTGJ?tag=tcgauthority-22</link>
-      <description>Amazon | ¥27,273
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0DKHHYTGJ?tag=tcgauthority-22</description>
-      <pubDate>Sat, 19 Sep 2026 05:31:44 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0DKHHYTGJ_20260919143144</guid>
     </item>
   </channel>
 </rss>
