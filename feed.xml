@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 03:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 03:18:15 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ホワイトフレア BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0DP481Y24?tag=tcgauthority-22</link>
+      <description>Amazon | ¥25,000
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0DP481Y24?tag=tcgauthority-22</description>
+      <pubDate>Wed, 23 Sep 2026 03:18:15 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0DP481Y24_20260923121815</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム MEGA 拡張パック メガシンフォニア BOX</title>
       <link>https://www.amazon.co.jp/dp/B0F189YH8W?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0F18J2CJF?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0FLD7HMRP?tag=tcgauthority-22</description>
       <pubDate>Tue, 22 Sep 2026 23:50:42 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0FLD7HMRP_20260923085042</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム MEGA 拡張パック アビスアイ BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0GP9QHQ3Y?tag=tcgauthority-22</link>
-      <description>Amazon | ¥10,395
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0GP9QHQ3Y?tag=tcgauthority-22</description>
-      <pubDate>Tue, 22 Sep 2026 23:50:42 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0GP9QHQ3Y_20260923085042</guid>
     </item>
   </channel>
 </rss>
