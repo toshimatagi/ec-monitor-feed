@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 09:40:15 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 09:53:22 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム ソード＆シールド スタートデッキ100</title>
+      <link>https://www.amazon.co.jp/dp/B09G9Y7WH6?tag=tcgauthority-22</link>
+      <description>Amazon | ¥1,938
+▼購入はこちら
+https://www.amazon.co.jp/dp/B09G9Y7WH6?tag=tcgauthority-22</description>
+      <pubDate>Sat, 03 Oct 2026 09:53:22 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B09G9Y7WH6_20261003185322</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ブラックボルト BOX</title>
       <link>https://www.amazon.co.jp/dp/B0DP4586RV?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0G1XB2STM?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0DP4586RV?tag=tcgauthority-22</description>
       <pubDate>Sat, 03 Oct 2026 03:51:36 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0DP4586RV_20261003125136</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ブラックボルト BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0DP4586RV?tag=tcgauthority-22</link>
-      <description>Amazon | ¥27,687
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0DP4586RV?tag=tcgauthority-22</description>
-      <pubDate>Sat, 03 Oct 2026 03:39:49 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0DP4586RV_20261003123949</guid>
     </item>
   </channel>
 </rss>
