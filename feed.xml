@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 14:56:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 14:59:44 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカード オリパ オリジナルパック</title>
+      <link>https://www.amazon.co.jp/dp/B099ZR1C3X?tag=tcgauthority-22</link>
+      <description>Amazon | ¥8,752
+▼購入はこちら
+https://www.amazon.co.jp/dp/B099ZR1C3X?tag=tcgauthority-22</description>
+      <pubDate>Fri, 16 Oct 2026 14:59:44 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B099ZR1C3X_20261016235944</guid>
+    </item>
     <item>
       <title>【更新】バンダイ(BANDAI) ONE PIECEカードゲーム エクストラブースター ONE PIECE Heroines Edition【EB-03】</title>
       <link>https://www.amazon.co.jp/dp/B0FJ7Z6RML?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://hb.afl.rakuten.co.jp/ichiba/52caff5c.4a28edb3.52caff5d.4da5f497/?pc=http
 https://hb.afl.rakuten.co.jp/ichiba/52caff5c.4a28edb3.52caff5d.4da5f497/?pc=https://item.rakuten.co.jp/premiumgarage/b-onep-heroines/?variantId=b-holo-ayks</description>
       <pubDate>Thu, 15 Oct 2026 13:17:35 +0000</pubDate>
       <guid isPermaLink="false">rakuten_rakuten_premiumgarage_b-onep-heroines_20261015221735</guid>
-    </item>
-    <item>
-      <title>【更新】バンダイ(BANDAI) ONE PIECEカードゲーム エクストラブースター ONE PIECE Heroines Edition【EB-03】</title>
-      <link>https://www.amazon.co.jp/dp/B0FJ7Z6RML?tag=tcgauthority-22</link>
-      <description>Amazon | ¥14,137
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0FJ7Z6RML?tag=tcgauthority-22</description>
-      <pubDate>Thu, 15 Oct 2026 13:07:09 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0FJ7Z6RML_20261015220709</guid>
     </item>
   </channel>
 </rss>
