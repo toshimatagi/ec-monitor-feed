@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 07:57:33 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 08:00:33 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA 拡張パック アビスアイ BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0GP9QHQ3Y?tag=tcgauthority-22</link>
+      <description>Amazon | ¥10,950
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0GP9QHQ3Y?tag=tcgauthority-22</description>
+      <pubDate>Sun, 18 Oct 2026 08:00:33 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0GP9QHQ3Y_20261018170033</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム MEGA 30th CELEBRATION カードセット ハリマロン・フォッコ・ケロマツ</title>
       <link>https://www.amazon.co.jp/dp/B0GXCSGX8Y?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0FJ7Z6RML?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0FLD7HMRP?tag=tcgauthority-22</description>
       <pubDate>Sat, 17 Oct 2026 15:06:33 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0FLD7HMRP_20261018000633</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム MEGA スタートデッキ100 バトルコレクション</title>
-      <link>https://www.amazon.co.jp/dp/B0FLD7HMRP?tag=tcgauthority-22</link>
-      <description>Amazon | ¥1,696
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0FLD7HMRP?tag=tcgauthority-22</description>
-      <pubDate>Sat, 17 Oct 2026 13:26:37 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0FLD7HMRP_20261017222637</guid>
     </item>
   </channel>
 </rss>
