@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 31 Oct 2026 15:13:14 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 15:14:46 +0000</lastBuildDate>
+    <item>
+      <title>【新商品】【シュリンク付き未開封BOX】MEGA 拡張パック メガブレイブ BOX</title>
+      <link>https://www.amazon.co.jp/dp/B0HM24GQLW?tag=tcgauthority-22</link>
+      <description>Amazon | ¥10,980
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0HM24GQLW?tag=tcgauthority-22</description>
+      <pubDate>Sat, 31 Oct 2026 15:14:46 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0HM24GQLW_20261101001446</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム ソード＆シールド 強化拡張パック 白熱のアルカナ BOX</title>
       <link>https://www.amazon.co.jp/dp/B0B1HWM5LW?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0FQB2BQHM?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0D46M9DHD?tag=tcgauthority-22</description>
       <pubDate>Sat, 31 Oct 2026 09:52:18 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0D46M9DHD_20261031185218</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック 古代の咆哮 BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0C6PKQPVM?tag=tcgauthority-22</link>
-      <description>Amazon | ¥12,890
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0C6PKQPVM?tag=tcgauthority-22</description>
-      <pubDate>Sat, 31 Oct 2026 09:52:18 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0C6PKQPVM_20261031185218</guid>
     </item>
   </channel>
 </rss>
