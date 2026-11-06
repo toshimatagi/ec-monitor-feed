@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 14:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:33:57 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA プレミアムトレーナーボックス MEGA</title>
+      <link>https://www.amazon.co.jp/dp/B0F18B4CVX?tag=tcgauthority-22</link>
+      <description>Amazon | ¥12,670
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0F18B4CVX?tag=tcgauthority-22</description>
+      <pubDate>Fri, 06 Nov 2026 14:33:57 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0F18B4CVX_20261106233357</guid>
+    </item>
     <item>
       <title>【更新】ワンピースカードゲーム ONE PIECE CARD GAME HEROINES PRECIOUS BOX</title>
       <link>https://www.amazon.co.jp/dp/B0HPX1CXYV?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0GP9JJ4B7?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0CMZT5PV4?tag=tcgauthority-22</description>
       <pubDate>Thu, 05 Nov 2026 15:03:15 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0CMZT5PV4_20261106000315</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム MEGA スターターセットex イーブイex</title>
-      <link>https://www.amazon.co.jp/dp/B0GP9JJ4B7?tag=tcgauthority-22</link>
-      <description>Amazon | ¥2,871
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0GP9JJ4B7?tag=tcgauthority-22</description>
-      <pubDate>Thu, 05 Nov 2026 15:01:43 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0GP9JJ4B7_20261106000143</guid>
     </item>
   </channel>
 </rss>
