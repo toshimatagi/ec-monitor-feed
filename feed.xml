@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 15:07:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 15:22:40 +0000</lastBuildDate>
+    <item>
+      <title>【更新】ポケモンカードゲーム MEGA プレミアムトレーナーボックス MEGA</title>
+      <link>https://www.amazon.co.jp/dp/B0F18B4CVX?tag=tcgauthority-22</link>
+      <description>Amazon | ¥12,345
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0F18B4CVX?tag=tcgauthority-22</description>
+      <pubDate>Wed, 11 Nov 2026 15:22:40 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0F18B4CVX_20261112002240</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット&amp;バイオレット 強化拡張パック ナイトワンダラー BOX</title>
       <link>https://www.amazon.co.jp/dp/B0CT4HR8F9?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0CMZQYKF6?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0DP481Y24?tag=tcgauthority-22</description>
       <pubDate>Wed, 11 Nov 2026 07:05:42 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0DP481Y24_20261111160542</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム スカーレット＆バイオレット 拡張パック ホワイトフレア BOX</title>
-      <link>https://www.amazon.co.jp/dp/B0DP481Y24?tag=tcgauthority-22</link>
-      <description>Amazon | ¥25,720
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0DP481Y24?tag=tcgauthority-22</description>
-      <pubDate>Wed, 11 Nov 2026 00:19:48 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0DP481Y24_20261111091948</guid>
     </item>
   </channel>
 </rss>
