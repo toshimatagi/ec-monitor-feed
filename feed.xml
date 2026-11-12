@@ -5,7 +5,16 @@
     <link>https://github.com/</link>
     <description>ECサイトの新商品・在庫復活・予約開始を検知するフィード</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 11:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 11:16:50 +0000</lastBuildDate>
+    <item>
+      <title>【新商品】バンダイ(BANDAI) ONE PIECEカードゲーム エクストラブースター EAST BLUE 【EB-06】 (BOX)24パック入り</title>
+      <link>https://www.amazon.co.jp/dp/B0HMZ9WLVZ?tag=tcgauthority-22</link>
+      <description>Amazon | ¥5,782
+▼購入はこちら
+https://www.amazon.co.jp/dp/B0HMZ9WLVZ?tag=tcgauthority-22</description>
+      <pubDate>Thu, 12 Nov 2026 11:16:50 +0000</pubDate>
+      <guid isPermaLink="false">amazon_B0HMZ9WLVZ_20261112201650</guid>
+    </item>
     <item>
       <title>【更新】ポケモンカードゲーム スカーレット&amp;バイオレット スターターデッキ＆ビルドセット 未来のミライドンex</title>
       <link>https://www.amazon.co.jp/dp/B0CMZT5PV4?tag=tcgauthority-22</link>
@@ -446,15 +455,6 @@ https://www.amazon.co.jp/dp/B0HPRX138T?tag=tcgauthority-22</description>
 https://www.amazon.co.jp/dp/B0F18B4CVX?tag=tcgauthority-22</description>
       <pubDate>Wed, 11 Nov 2026 12:43:38 +0000</pubDate>
       <guid isPermaLink="false">amazon_B0F18B4CVX_20261111214338</guid>
-    </item>
-    <item>
-      <title>【更新】ポケモンカードゲーム MEGA プレミアムトレーナーボックス MEGA</title>
-      <link>https://www.amazon.co.jp/dp/B0F18B4CVX?tag=tcgauthority-22</link>
-      <description>Amazon | ¥12,345
-▼購入はこちら
-https://www.amazon.co.jp/dp/B0F18B4CVX?tag=tcgauthority-22</description>
-      <pubDate>Wed, 11 Nov 2026 12:32:59 +0000</pubDate>
-      <guid isPermaLink="false">amazon_B0F18B4CVX_20261111213259</guid>
     </item>
   </channel>
 </rss>
